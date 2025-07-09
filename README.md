@@ -1,4 +1,4 @@
-<div align=center>
+<!-- <div align=center>
 <img  src="src/assets/logo.svg"/>
 </div>
 
@@ -139,7 +139,7 @@ GitHub Pages: <https://realkai42.github.io/qwerty-learner/>
 
 > **验证是否已经拥有相关环境**
 >
-> 1. 手动验证  
+> 1. 手动验证
 >    请在命令行下执行以下命令，查看是否有对应版本输出
 >
 >    ```sh
@@ -148,7 +148,7 @@ GitHub Pages: <https://realkai42.github.io/qwerty-learner/>
 >    yarn --version
 >    ```
 >
-> 2. 脚本验证  
+> 2. 脚本验证
 >    使用我们提供的脚本对所需环境进行验证，如果确实依赖项会自动安装
 >    - Windows 用户可以直接执行 [pre-check.ps1](scripts/pre-check.ps1) 脚本
 >    - MacOS 用户可以直接执行 [pre-check.sh](scripts/pre-check.sh) 脚本
@@ -325,4 +325,4 @@ JS API 来自于[react-code-game](https://github.com/webzhd/react-code-game) ，
 
 ## 🌟 Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/Realkai42/qwerty-learner.svg)](https://starchart.cc/Realkai42/qwerty-learner)
+[![Stargazers over time](https://starchart.cc/Realkai42/qwerty-learner.svg)](https://starchart.cc/Realkai42/qwerty-learner) -->
